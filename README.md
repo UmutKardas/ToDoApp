@@ -20,7 +20,7 @@
 </ul>
 
 <h2>Video Demonstration</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MM4Pde3D4LU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>You can watch the video demonstration of the app <a href="https://www.youtube.com/watch?v=MM4Pde3D4LU&t=12s">here</a>.</p>
 
 <h2>Installation</h2>
 <ol>
